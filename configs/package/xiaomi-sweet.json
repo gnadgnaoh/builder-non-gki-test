@@ -6,7 +6,7 @@
       "name": "vantomnext-experimental-ksun",
       "defconfig": "sweet_defconfig",
       "extraConfig": "",
-      "repo": "https://github.com/gnadgnaoh/vantom_next_kernel_xiaomi_sm6150",
+      "repo": "https://github.com/gnadgnaoh/vantom_next_kernel_xiaomi_sm6150_test",
       "branch": "VantomNext-1.5.11"
     },
     "output_image": "Image",
