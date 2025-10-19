@@ -21,7 +21,7 @@
       "enable": true,
       "setupLink": "https://raw.githubusercontent.com/gnadgnaoh/KernelSU-Next/refs/heads/next-susfs/kernel/setup.sh",
       "setupArg": "next-susfs",
-      "setupName": "KernelSU-Next",
+      "setupName": "KernelSU-Next-Test",
       "needPatch": false,
       "susfsLink": ""
     },
